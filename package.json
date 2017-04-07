@@ -1,0 +1,39 @@
+{
+  "name": "dadaroommail",
+  "version": "1.0.0",
+  "description": "Creación de mails con mjml",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "mjml": "^3.3.0"
+  },
+  "devDependencies": {
+    "casperjs": "^1.1.1",
+    "chalk": "~1.1.1",
+    "grunt-cache-bust": "^1.3.0",
+    "grunt-casperjs": "^2.2.0",
+    "grunt-contrib-copy": "~0.8.2",
+    "grunt-contrib-requirejs": "^1.0.0",
+    "grunt-contrib-symlink": "^0.3.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-copy": "~0.1.0",
+    "grunt-shell": "^1.0.1",
+    "grunt-shell-spawn": "^0.3.0",
+    "grunt-string-replace": "~1.2.0",
+    "grunt-wiredep": "^1.8.0",
+    "phantomjs": "^2.1.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chiljaro/Dadamailing.git"
+  },
+  "author": "Luis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chiljaro/Dadamailing/issues"
+  },
+  "homepage": "https://github.com/Chiljaro/Dadamailing#readme"
+}

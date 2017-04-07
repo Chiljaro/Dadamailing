@@ -1,0 +1,31 @@
+<!-- Footer-->
+     <mj-section >
+        <mj-column>
+           <mj-text align="center" 
+                    padding= "0 0 35px"
+                    font-family= "Helvetica"
+                    font-size= "14px"
+                    color= "#000000"
+                    letter-spacing= "0px"
+                    line-height= "17px">
+                  ¿Ya no quieres seguir recibiendo esta información? ¿Seguro? <a href="[unsubscribe]" style="color:#000000;font-weight:bold;text-decoration:none">Da de baja tu correo aquí</a>
+          </mj-text>
+          <mj-text align="center" 
+                      padding= "0 0 0px"
+                      font-family= "Helvetica"
+                      font-size= "14px"
+                      color= "#000000"
+                      letter-spacing= "0px"
+                      line-height= "1.6">
+                    Saludos,
+          </mj-text>
+          <mj-image src="http://wedada.com/mailingImages/v3/team.png" width="122px"/>
+          <mj-text align="center">
+            <a href="https://www.facebook.com/mydadaroom" target="_blank"><img alt="Facebook" src="http://wedada.com/mailingImages/v3/fb.png" style="margin-right:5px; display:inline-block;"></a>
+            <a href="https://twitter.com/dadaroom" target="_blank"><img alt="Twitter" src="http://wedada.com/mailingImages/v3/tw.png" style="margin-right:5px; display:inline-block;"></a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml>

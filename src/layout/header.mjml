@@ -1,0 +1,14 @@
+<mjml>
+  <mj-head>
+    <mj-title>Ayuda a un amigo</mj-title>
+  </mj-head>
+  <mj-body>
+    <mj-container background-color="#F5F5F5">
+
+      <!-- logo Header -->
+      <mj-section >
+        <mj-column>
+          <mj-image src="http://wedada.com/mailingImages/v3/logo2.png" 
+                    width="194"/>
+        </mj-column>
+      </mj-section>

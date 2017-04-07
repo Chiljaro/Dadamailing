@@ -1,0 +1,9 @@
+<!-- Header -->
+<mj-include path="../../layout/header" />
+
+
+<!-- Contenido -->
+
+
+<!-- footer -->
+<mj-include path="../../layout/footer" />
