@@ -1,9 +1,13 @@
+<mjml>
+  <mj-head>
+    <mj-title>Ayuda a un amigo</mj-title>
+  </mj-head>
+  <mj-body>
 
+     <!-- Header -->
+    <mj-include path="../layout/header" />
 
-<!-- Header -->
-<mj-include path="../../layout/header" />
-
-<!-- titulo -->
+      <!-- Cuerpo del mail -->
       <mj-section background-color="#FFFFFF" border="1px solid #DBDBDB" border-bottom="none">
         <mj-column>
           <mj-text  align="center"
@@ -77,5 +81,8 @@
         </mj-column>
       </mj-section>
 
-<!-- footer -->
-<mj-include path="../../layout/footer" />
+      <!-- Footer-->
+      <mj-include path="../layout/footer" />
+    </mj-container>
+  </mj-body>
+</mjml>
